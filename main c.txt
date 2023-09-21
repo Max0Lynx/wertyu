@@ -1,5 +1,4 @@
 <?php 
-require "db.php";
 $data = $_POST;
 $showErrors = false;
 if(isset($data['auth'])){
