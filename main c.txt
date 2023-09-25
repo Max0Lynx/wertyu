@@ -1,6 +1,6 @@
 <?php 
 $data = $_POST;
-$showErrors = false;
+fgtyiuo[p;
 if(isset($data['auth'])){
     $errors = array();
     $showErrors = true;
